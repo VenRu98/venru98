@@ -26,6 +26,7 @@ function ScreeningStockCrypto() {
                         <li>Using Framework Flask Python</li>
                         <li>Notification to Telegram using Bot Telegram</li>
                         <li>Help Trader for Day Trading</li>
+                        <a href="https://github.com/VenRu98/screening_stock_crypto">Check Here</a>
                     </ul>
                 </article>
             </div>

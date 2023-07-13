@@ -35,6 +35,7 @@ function GKIPasteurBandung() {
                         <li>Using Framework Flutter for Mobile App</li>
                         <li>Using Firebase Firestore NoSQL for Database</li>
                         <li>Prototype for Parking Simulation</li>
+                        <a href="https://github.com/VenRu98/parkd">Check Here</a>
                     </ul>
                 </article>
             </div>

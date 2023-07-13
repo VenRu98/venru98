@@ -35,6 +35,7 @@ function WebScrappingMarketplace() {
                         <li>Using Framework Flask Python</li>
                         <li>With Library Selenium and Beautiful Soup</li>
                         <li>Scrapping Data From Marketplace Lazada, Shopee, And Tokopedia</li>
+                        <a href="https://github.com/VenRu98/web_scrapping">Check Here</a>
                     </ul>
                 </article>
             </div>

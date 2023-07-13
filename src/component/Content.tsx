@@ -2,6 +2,7 @@ import WebScrappingMarketplace from "./content/WebScrappingMarketplace";
 import GKIPasteurBandung from "./content/GKIPasteurBandung";
 import ParkD from "./content/ParkD";
 import ScreeningStockCrypto from "./content/ScreeningStockCrypto";
+import ReceivingShippingStockLaravelReact from "./content/ReceivingShippingStockLaravelReact";
 
 function Content() {
     return (
@@ -20,6 +21,10 @@ function Content() {
             <div className="divider"></div>
             <div className="grid h-full card bg-base-300 rounded-box place-items-center">
                 <ScreeningStockCrypto></ScreeningStockCrypto>
+            </div>
+            <div className="divider"></div>
+            <div className="grid h-full card bg-base-300 rounded-box place-items-center">
+                <ReceivingShippingStockLaravelReact></ReceivingShippingStockLaravelReact>
             </div>
         </div>
     )
